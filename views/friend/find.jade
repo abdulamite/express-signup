@@ -1,0 +1,6 @@
+extends ../layout
+
+block content
+  form(action="../friend/find" method="POST")
+    input(type="text" name="friend" placeholder="name")
+    input(type="submit" value="Find Friend")
