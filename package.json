@@ -16,7 +16,7 @@
     "flash": "^1.1.0",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
-    "mongoose": "^5.5.13",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "nodemon": "^1.19.1",
     "session": "^0.1.0"
